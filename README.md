@@ -1,4 +1,4 @@
-# Infraestrutura Como Código com Serverless Framework na AWS
+# Infraestrutura como Código com Serverless Framework na AWS
 
 ![GitHub](https://img.shields.io/github/license/paucia-lisboa/api-serverless-aws-dio)
 
