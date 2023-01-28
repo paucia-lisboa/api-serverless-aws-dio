@@ -159,4 +159,10 @@ resources:
   ##
   
 Projeto Prático "Infraestrutura Como Código com Serverless Framework na AWS", desenvolvido durante o Bootcamp NTT DATA Diversidade em Tech fornecido pela [**DIO**](https://www.dio.me/).
+
+By Paucinha!!!
+
+[![Linkedin: paucia](https://img.shields.io/badge/Paucia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paucia-lisboa/)](https://www.linkedin.com/in/paucia-lisboa/)
+
+![GitHub watchers](https://img.shields.io/github/watchers/paucia-lisboa/api-serverless-aws-dio?style=social)
   
