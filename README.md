@@ -1,6 +1,18 @@
-# api-serverless-aws-dio
+# Infraestrutura Como Código com Serverless Framework na AWS
 
+![GitHub](https://img.shields.io/github/license/paucia-lisboa/api-serverless-aws-dio)
 
+## Projeto prático
+
+## Descrição
+
+Chegou a sua hora de dar os seus primeiros passos na Nuvem da AWS! Para isso, o expert apresenta os conceitos de Serverless e Infraestrutura como Código (IaC) em uma abordagem totalmente prática usando o Serverless Framework. Sendo assim, você é desafiado a replicar a solução implementada pelo expert ou reproduzi-la na linguagem de programação que preferir. Booora!?
+
+AWS | Git
+
+Full-Stack | Avançado
+
+##
 
 <!--
 title: 'AWS Simple HTTP Endpoint example in NodeJS'
@@ -16,7 +28,7 @@ authorAvatar: 'https://avatars1.githubusercontent.com/u/13742415?s=200&v=4'
 
 # API Node.js com Serverless Framework em ambiente AWS
 
-Este repositório contém o código fonte do Live Coding da DIO no dia 29/07/2021. Neste projeto vamos criar uma infraestrutra em nuvem AWS com API Gateway, DynamoDB, AWS Lambda e AWS CloudFormation utilizando o framework Serverless para o desenvolvimento baseada em Infraestrutura as a Code.
+Este repositório contém o código fonte do Bootcamp NTT DATA Diversidade em Tech. Neste projeto vamos criar uma infraestrutra em nuvem AWS com API Gateway, DynamoDB, AWS Lambda e AWS CloudFormation utilizando o framework Serverless para o desenvolvimento baseada em Infraestrutura as a Code.
 
 ## Etapas
 
@@ -143,3 +155,8 @@ resources:
           path: /items/{id}
           method: put
   ```
+  
+  ##
+  
+Projeto Prático "Infraestrutura Como Código com Serverless Framework na AWS", desenvolvido durante o Bootcamp NTT DATA Diversidade em Tech fornecido pela [**DIO**](https://www.dio.me/).
+  
